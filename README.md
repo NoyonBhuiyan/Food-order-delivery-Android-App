@@ -6,6 +6,12 @@ Just follow codes,layout design and connect with Firebase..
 With these steps you'll be success to build an Android Food app.
 In this project........
 1. Customer+ Chef/Restaurant owner Registration and Login system.
+
+
 2.Restaurant can dish by theircity location and Customer can see,search and order food by customer's location.
-Customer can add foods in the cart and then confirm order from cart.
-Restaurant will get the notification of order and simply deliver the foods.
+
+
+3.Customer can add foods in the cart and then confirm order from cart.
+
+
+4.Restaurant will get the notification of order and simply deliver the foods.
